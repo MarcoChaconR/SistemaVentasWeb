@@ -30,7 +30,7 @@ Para poner en marcha el proyecto, sigue estos pasos:
 
 1. Clona el repositorio en tu servidor local o de producción:
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/MarcoChaconR/SistemaVentasWeb
 
 2. Configura tu servidor web para apuntar al directorio clonado como la raíz del documento.
 3. Crea una base de datos y ejecuta los scripts SQL proporcionados para configurar las tablas necesarias.
